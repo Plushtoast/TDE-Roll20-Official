@@ -13,7 +13,7 @@ This system is intended for usage with [Roll20](http://https://roll20.net//) to 
 In Roll20 create a new game and select the NEW Das Schwarze Auge / The Dark Eye character sheet and start your game.
 
 ## Roadmap
-Will be submitted as soon as we can tell you more... be patient :)
+Our current plans: [Roadmap](https://github.com/Plushtoast/TDE-Roll20-Official/milestones). This is subject to change.
 
 
 ## Current State
