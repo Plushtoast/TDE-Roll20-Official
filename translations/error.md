@@ -73,9 +73,9 @@
 
 ---
 # it
-**Keys obsolete**: 
+**Keys obsolete**:
 
-**Keys missing**: GEKK,aktiv,baseValues,compendiumDrop,details,kritisch,kulturpaket,professionspaket,personalInformation,stufe,derivedAttributes
+**Keys missing**:
 
 
 
