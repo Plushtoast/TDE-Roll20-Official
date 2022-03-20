@@ -5,8 +5,7 @@
 Official feedback hub for the roll 20 ulisses TDE character sheet & future compendium books
 
 
-### Current Version:
-1.0.2 Initial Release
+### Current Version: 1.1.2 
 This system is intended for usage with [Roll20](http://https://roll20.net//) to play "Das Schwarze Auge" / "The Dark Eye" 5th edition.
 
 ## Game setup
