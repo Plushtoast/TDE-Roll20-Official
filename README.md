@@ -3,6 +3,7 @@
 ![TDE_Roll20](https://user-images.githubusercontent.com/75448500/133844250-62f177c1-af3a-4f1c-bdc1-114162286011.jpg)
 
 Official feedback hub for the roll 20 ulisses TDE character sheet & future compendium books
+If you want to learn more checkout the [German](https://ulisses-spiele.de/virtual-tabletop-dsa-vtt/) or [English](https://ulisses-us.com/ulisses-virtual-tabletops/virtual-tabletop-dsa-vtt/) VTT Page by Ulisses Spiele.
 
 
 ### Current Version: 1.2.0
