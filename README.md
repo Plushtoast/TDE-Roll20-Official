@@ -6,7 +6,7 @@ Official feedback hub for the roll 20 ulisses TDE character sheet & future compe
 If you want to learn more checkout the [German](https://ulisses-spiele.de/virtual-tabletop-dsa-vtt/) or [English](https://ulisses-us.com/ulisses-virtual-tabletops/virtual-tabletop-dsa-vtt/) VTT Page by Ulisses Spiele.
 
 
-### Current Version: 1.2.0
+### Current Version: 1.2.1
 This system is intended for usage with [Roll20](http://https://roll20.net//) to play "Das Schwarze Auge" / "The Dark Eye" 5th edition.
 
 ## Game setup
@@ -40,6 +40,9 @@ If you want to discuss TDE for roll20 or need some assistance you can also join 
     <a href="https://app.roll20.net/compendium/TDE/Aventurisches%20Bestiarium" title="Aventurisches Bestiarium">
         <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-bestiary/icons/journal/coverde.webp" alt="Aventurisches Bestiarium" style="text-align: center; margin-right: 5px; margin-bottom: 5px; width:220px;">
     </a>
+    <a href="https://app.roll20.net/compendium/TDE/Regeln:Aventurisches%20Bestiarium%202#content" title="Aventurisches Bestiarium II">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-bestiary2/icons/journal/cover.webp" alt="Aventurisches Bestiarium II" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+    </a>
     <a href="https://app.roll20.net/compendium/TDE/Aventurische%20Rüstkammer" title="Aventurische Rüstkammer">
         <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-armory/icons/journals/coverde.webp" alt="Aventurische Rüstkammer" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
     </a>
@@ -52,6 +55,7 @@ If you want to discuss TDE for roll20 or need some assistance you can also join 
     <a href="https://app.roll20.net/compendium/TDE/Regeln:Aventurisches%20Kompendium%201#content" title="Aventurisches Kompendium">
         <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-compendium/icons/journal/coverde.webp" alt="Aventurisches Kompendium" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
     </a>
+    
 </div>
 <br>
 <h3>English</h3>
