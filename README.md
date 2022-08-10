@@ -49,13 +49,18 @@ If you want to discuss TDE for roll20 or need some assistance you can also join 
     <a href="https://app.roll20.net/compendium/TDE/Aventurische%20Magie%201#content" title="Aventurische Magie I">
         <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-magic-1/icons/journals/coverde.webp" alt="Aventurische Magie I" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
     </a>
+    <a href="https://app.roll20.net/compendium/TDE/Aventurische%20Magie%202#content" title="Aventurische Magie II">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-magic-2/icons/journal/cover.webp" alt="Aventurische Magie II" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+    </a>
     <a href="https://app.roll20.net/compendium/TDE/Aventurisches%20Götterwirken%201#content" title="Aventurisches Götterwirken">
         <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-godsofaventuria/icons/journals/coverde.webp" alt="Aventurisches Götterwirken" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
     </a>
     <a href="https://app.roll20.net/compendium/TDE/Regeln:Aventurisches%20Kompendium%201#content" title="Aventurisches Kompendium">
         <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-compendium/icons/journal/coverde.webp" alt="Aventurisches Kompendium" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
     </a>
-    
+     <a href="https://app.roll20.net/compendium/TDE/Regeln:Aventurisches%20Pandaemonium#content" title="Aventurisches Pandämonium">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-pandaemonium/icons/journal/coverde.webp" alt="Aventurisches Pandämonium" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+    </a>
 </div>
 <br>
 <h3>English</h3>
