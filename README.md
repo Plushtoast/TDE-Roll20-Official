@@ -6,7 +6,7 @@ Official feedback hub for the roll 20 ulisses TDE character sheet & future compe
 If you want to learn more checkout the [German](https://ulisses-spiele.de/virtual-tabletop-dsa-vtt/) or [English](https://ulisses-us.com/ulisses-virtual-tabletops/virtual-tabletop-dsa-vtt/) VTT Page by Ulisses Spiele.
 
 
-### Current Version: 1.2.1
+### Current Version: 1.2.x
 This system is intended for usage with [Roll20](http://https://roll20.net//) to play "Das Schwarze Auge" / "The Dark Eye" 5th edition.
 
 ## Game setup
