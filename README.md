@@ -34,54 +34,83 @@ If you want to discuss TDE for roll20 or need some assistance you can also join 
 ## Official Modules
 <h3>German</h3>
 <div>
-    <a href="https://app.roll20.net/compendium/TDE/Das%20Schwarze Auge%20-%20Grundregelwerk" title="Das Schwarze Auge - Grundregelwerk">
-        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-core/icons/journal/coverde.webp" alt="Das Schwarze Auge - Grundregelwerk" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
-    </a>
-    <a href="https://app.roll20.net/compendium/TDE/Aventurisches%20Bestiarium" title="Aventurisches Bestiarium">
-        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-bestiary/icons/journal/coverde.webp" alt="Aventurisches Bestiarium" style="text-align: center; margin-right: 5px; margin-bottom: 5px; width:220px;">
-    </a>
-    <a href="https://app.roll20.net/compendium/TDE/Regeln:Aventurisches%20Bestiarium%202#content" title="Aventurisches Bestiarium II">
-        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-bestiary2/icons/journal/cover.webp" alt="Aventurisches Bestiarium II" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
-    </a>
-    <a href="https://app.roll20.net/compendium/TDE/Aventurische%20Rüstkammer" title="Aventurische Rüstkammer">
-        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-armory/icons/journals/coverde.webp" alt="Aventurische Rüstkammer" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+    <a href="https://app.roll20.net/compendium/TDE/Das%20Schwarze Auge%20-%20Grundregelwerk"
+        title="Das Schwarze Auge - Grundregelwerk">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-core/icons/journal/coverde.webp"
+            alt="Das Schwarze Auge - Grundregelwerk"
+            style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
     </a>
     <a href="https://app.roll20.net/compendium/TDE/Aventurische%20Magie%201#content" title="Aventurische Magie I">
-        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-magic-1/icons/journals/coverde.webp" alt="Aventurische Magie I" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-magic-1/icons/journals/coverde.webp"
+            alt="Aventurische Magie I" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
     </a>
     <a href="https://app.roll20.net/compendium/TDE/Aventurische%20Magie%202#content" title="Aventurische Magie II">
-        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-magic-2/icons/journal/cover.webp" alt="Aventurische Magie II" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-magic-2/icons/journal/cover.webp"
+            alt="Aventurische Magie II" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
     </a>
-    <a href="https://app.roll20.net/compendium/TDE/Aventurisches%20Götterwirken%201#content" title="Aventurisches Götterwirken">
-        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-godsofaventuria/icons/journals/coverde.webp" alt="Aventurisches Götterwirken" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+    <a href="https://app.roll20.net/compendium/TDE/Aventurisches%20Götterwirken%201#content"
+        title="Aventurisches Götterwirken">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-godsofaventuria/icons/journals/coverde.webp"
+            alt="Aventurisches Götterwirken"
+            style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
     </a>
-    <a href="https://app.roll20.net/compendium/TDE/Regeln:Aventurisches%20Kompendium%201#content" title="Aventurisches Kompendium">
-        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-compendium/icons/journal/coverde.webp" alt="Aventurisches Kompendium" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+    <a href="https://app.roll20.net/compendium/TDE/Regeln:Aventurisches%20Kompendium%201#content"
+        title="Aventurisches Kompendium">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-compendium/icons/journal/coverde.webp"
+            alt="Aventurisches Kompendium"
+            style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
     </a>
-     <a href="https://app.roll20.net/compendium/TDE/Regeln:Aventurisches%20Pandaemonium#content" title="Aventurisches Pandämonium">
-        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-pandaemonium/icons/journal/coverde.webp" alt="Aventurisches Pandämonium" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+    <a href="https://app.roll20.net/compendium/TDE/Aventurisches%20Bestiarium" title="Aventurisches Bestiarium">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-bestiary/icons/journal/coverde.webp"
+            alt="Aventurisches Bestiarium"
+            style="text-align: center; margin-right: 5px; margin-bottom: 5px; width:220px;">
+    </a>
+    <a href="https://app.roll20.net/compendium/TDE/Regeln:Aventurisches%20Bestiarium%202#content"
+        title="Aventurisches Bestiarium II">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-bestiary2/icons/journal/cover.webp"
+            alt="Aventurisches Bestiarium II"
+            style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+    </a>
+    <a href="https://app.roll20.net/compendium/TDE/Aventurische%20Rüstkammer" title="Aventurische Rüstkammer">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-armory/icons/journals/coverde.webp"
+            alt="Aventurische Rüstkammer"
+            style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+    </a>    
+    <a href="https://app.roll20.net/compendium/TDE/Regeln:Aventurisches%20Pandaemonium#content"
+        title="Aventurisches Pandämonium">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-pandaemonium/icons/journal/coverde.webp"
+            alt="Aventurisches Pandämonium"
+            style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
     </a>
 </div>
 <br>
 <h3>English</h3>
 <div>
-    <a href="https://app.roll20.net/compendium/TDE/The%20Dark%20Eye%20-%20Core%20Rules#content" title="The Dark Eye - Core Rules">
-        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-core/icons/journal/coveren.webp" alt="The Dark Eye - Core Rules" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
-    </a>
-    <a href="https://app.roll20.net/compendium/TDE/Aventurian%20Bestiary#content" title="Aventurian Bestiary">
-        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-bestiary/icons/journal/coveren.webp" alt="Aventurian Bestiary" style="text-align: center; margin-right: 5px; margin-bottom: 5px; width:220px;">
-    </a>
-    <a href="https://app.roll20.net/compendium/TDE/Aventurian%20Armory#content" title="Aventurian Armory">
-        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-armory/icons/journals/coveren.webp" alt="Aventurian Armory" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
-    </a>
+    <a href="https://app.roll20.net/compendium/TDE/The%20Dark%20Eye%20-%20Core%20Rules#content"
+        title="The Dark Eye - Core Rules">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-core/icons/journal/coveren.webp"
+            alt="The Dark Eye - Core Rules"
+            style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+    </a>    
     <a href="https://app.roll20.net/compendium/TDE/Rules:Aventurian%20Magic%201#content" title="Aventurian Magic I">
-        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-magic-1/icons/journals/coveren.webp" alt="Aventurian Magic I" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-magic-1/icons/journals/coveren.webp"
+            alt="Aventurian Magic I" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
     </a>
     <a href="https://app.roll20.net/compendium/TDE/Rules:Gods%20of%20Aventuria#content" title="Gods of Aventuria">
-        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-godsofaventuria/icons/journals/coveren.webp" alt="Gods of Aventuria" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-godsofaventuria/icons/journals/coveren.webp"
+            alt="Gods of Aventuria" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
     </a>
     <a href="https://app.roll20.net/compendium/TDE/Rules:Aventurian%20Compendium#content" title="Aventuria Compendium">
-        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-compendium/icons/journal/coveren.webp" alt="Aventuria Compendium" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-compendium/icons/journal/coveren.webp"
+            alt="Aventuria Compendium" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+    </a>
+    <a href="https://app.roll20.net/compendium/TDE/Aventurian%20Bestiary#content" title="Aventurian Bestiary">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-bestiary/icons/journal/coveren.webp"
+            alt="Aventurian Bestiary" style="text-align: center; margin-right: 5px; margin-bottom: 5px; width:220px;">
+    </a>
+    <a href="https://app.roll20.net/compendium/TDE/Aventurian%20Armory#content" title="Aventurian Armory">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-armory/icons/journals/coveren.webp"
+            alt="Aventurian Armory" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
     </a>
 </div>
 
