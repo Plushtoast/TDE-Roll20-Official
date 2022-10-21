@@ -54,6 +54,12 @@ If you want to discuss TDE for roll20 or need some assistance you can also join 
             alt="Aventurisches Götterwirken"
             style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
     </a>
+    <a href="https://app.roll20.net/compendium/TDE/Aventurisches%20Götterwirken%202#content"
+        title="Aventurisches Götterwirken II">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-godsofaventuria2/icons/journals/coverde.webp"
+            alt="Aventurisches Götterwirken II"
+            style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+    </a>
     <a href="https://app.roll20.net/compendium/TDE/Regeln:Aventurisches%20Kompendium%201#content"
         title="Aventurisches Kompendium">
         <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-compendium/icons/journal/coverde.webp"
@@ -75,11 +81,22 @@ If you want to discuss TDE for roll20 or need some assistance you can also join 
         <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-armory/icons/journals/coverde.webp"
             alt="Aventurische Rüstkammer"
             style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
-    </a>    
+    </a>
+    <a href="https://app.roll20.net/compendium/TDE/Regeln:Aventurische%20R%C3%BCstkammer%202" title="Aventurische Rüstkammer II">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-armory2/icons/journals/coverde.webp"
+            alt="Aventurische Rüstkammer II"
+            style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+    </a>  
     <a href="https://app.roll20.net/compendium/TDE/Regeln:Aventurisches%20Pandaemonium#content"
         title="Aventurisches Pandämonium">
         <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-pandaemonium/icons/journal/coverde.webp"
             alt="Aventurisches Pandämonium"
+            style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+    </a>
+    <a href="https://app.roll20.net/compendium/TDE/Regeln:Aventurisches%20Pandaemonium%202#content"
+        title="Aventurisches Pandämonium II">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-pandaemonium2/icons/journal/coverde.webp"
+            alt="Aventurisches Pandämonium II"
             style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
     </a>
 </div>
