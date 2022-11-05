@@ -106,8 +106,7 @@ If you want to discuss TDE for roll20 or need some assistance you can also join 
     <a href="https://app.roll20.net/compendium/TDE/The%20Dark%20Eye%20-%20Core%20Rules#content"
         title="The Dark Eye - Core Rules">
         <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-core/icons/journal/coveren.webp"
-            alt="The Dark Eye - Core Rules"
-            style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+            alt="The Dark Eye - Core Rules" style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
     </a>    
     <a href="https://app.roll20.net/compendium/TDE/Rules:Aventurian%20Magic%201#content" title="Aventurian Magic I">
         <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-magic-1/icons/journals/coveren.webp"
