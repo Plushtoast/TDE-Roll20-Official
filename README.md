@@ -66,6 +66,12 @@ If you want to discuss TDE for roll20 or need some assistance you can also join 
             alt="Aventurisches Kompendium"
             style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
     </a>
+    <a href="https://app.roll20.net/compendium/TDE/Regeln:Aventurisches%20Kompendium%20II#content"
+        title="Aventurisches Kompendium II">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-compendium2/icons/journal/coverde.webp"
+            alt="Aventurisches Kompendium II"
+            style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+    </a>
     <a href="https://app.roll20.net/compendium/TDE/Aventurisches%20Bestiarium" title="Aventurisches Bestiarium">
         <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-bestiary/icons/journal/coverde.webp"
             alt="Aventurisches Bestiarium"
@@ -97,6 +103,12 @@ If you want to discuss TDE for roll20 or need some assistance you can also join 
         title="Aventurisches Pandämonium II">
         <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-pandaemonium2/icons/journal/coverde.webp"
             alt="Aventurisches Pandämonium II"
+            style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
+    </a>
+    <a href="https://app.roll20.net/compendium/TDE/Regeln:Aventurische%20Tiergefährten#content"
+        title="Aventurische Tiergefährten">
+        <img src="https://ulisses-digital.de/R20/dsa5/modules/dsa5-companions/icons/journal/coverde.webp"
+            alt="Aventurische Tiergefährten"
             style="margin-right: 5px; margin-bottom: 5px; text-align:center; width:220px;">
     </a>
 </div>
